@@ -41,3 +41,4 @@ An interactive mobile tour guide app for a botanical garden, featuring real-time
 2.  TourScreen — Экран активной экскурсии: список точек, прогресс и подсказки.
 3.  MapScreen — Интерактивная карта сада.
 4.  InfoScreen — Детальная информация о растениях, правила сада и карточки объектов.
+
